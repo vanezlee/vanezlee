@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanezlee
-- 👀 I’m interested in ...automation with RPA (Tag UI), app script, google sheets!
-- 🌱 I’m currently learning ... app script
-- 💞️ I’m looking to collaborate on ... app script!
+- 👀 I’m interested in ...automation with app script, google sheets, api, RPA (Tag UI) !
+- 🌱 I’m currently learning ... all of the above!
+- 💞️ I’m looking to collaborate on ... all of the above as a pet project! 
 - 📫 How to reach me ...vanezlee@gmail.com
 
 <!---
